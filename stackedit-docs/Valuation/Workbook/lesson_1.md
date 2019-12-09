@@ -5,7 +5,10 @@
 5. growth; ROIC
 6. B
 7. D
+8. B
+9. C
+10. D 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2Mjc3NzUwLC0xNTAwNTkzNDc1LDE1Mz
-k5OTQyNTZdfQ==
+eyJoaXN0b3J5IjpbLTEzODM4OTc1MDEsLTE1MDA1OTM0NzUsMT
+UzOTk5NDI1Nl19
 -->
