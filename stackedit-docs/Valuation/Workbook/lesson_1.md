@@ -1,6 +1,7 @@
 1. stronger
 2. six
-3. product developmen
+3. R&D expenditure; costs.
+4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Nzk0Njk3MCwxNTM5OTk0MjU2XX0=
+eyJoaXN0b3J5IjpbOTQzMTUxMTYwLDE1Mzk5OTQyNTZdfQ==
 -->
