@@ -14,9 +14,9 @@
 		$$P_\text{96}=46,229$$
 		$$P=0.87 \times P_\text{95} + 0.13 \times P_\text{96}$$
 		$$P=40,746$$
-	c. $$10,000*.07$$
+	c. See 4.c. of [ch3-exercises spreadsheet](https://docs.google.com/spreadsheets/d/1PtCIQSuTvcW2Zm9iWtwRv54Q8oXtvajIXqiunmEC6kA/edit?folder=0B2ib3M3otvbDZDhjUU1LZU1WUUU#gid=0).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTU4MTg0OSwxMjkyODg1MTExLDE4Nj
-Q3OTk5NjAsMzYxNjg5Njg2LC0yMjk5NTI3MzUsMTAyNTU3Mjg5
-OCwxMjA3MjMxNzQ5XX0=
+eyJoaXN0b3J5IjpbLTExNDE5NjM5MjIsLTQ5OTU4MTg0OSwxMj
+kyODg1MTExLDE4NjQ3OTk5NjAsMzYxNjg5Njg2LC0yMjk5NTI3
+MzUsMTAyNTU3Mjg5OCwxMjA3MjMxNzQ5XX0=
 -->
