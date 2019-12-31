@@ -7,11 +7,12 @@
 3. a. To calculate life expectancy, calculate the expected value of all the ages:
 	$$x=90*.07+91*.08...101*.04$$
 	$$x=95.13\text{ years}$$
-	b. $$P=\frac{A}{r}\bigg[1-\frac{1}{(1+r)^n}\bigg]$$
+	b. Find $$P\sub{}$$$$P=\frac{A}{r}\bigg[1-\frac{1}{(1+r)^n}\bigg]$$
 		$$P=\frac{10,000}{.08}\bigg[1-\frac{1}{(1+.08)^{5.13}}\bigg]$$
 		$$P=40,774$$
 	c. $$10,000*.07$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NDc5OTk2MCwzNjE2ODk2ODYsLTIyOT
-k1MjczNSwxMDI1NTcyODk4LDEyMDcyMzE3NDldfQ==
+eyJoaXN0b3J5IjpbOTcyNDg5NzY3LDE4NjQ3OTk5NjAsMzYxNj
+g5Njg2LC0yMjk5NTI3MzUsMTAyNTU3Mjg5OCwxMjA3MjMxNzQ5
+XX0=
 -->
