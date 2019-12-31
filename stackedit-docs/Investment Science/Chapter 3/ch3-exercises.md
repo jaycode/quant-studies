@@ -10,8 +10,8 @@
 	b. $$P=\frac{A}{r}\bigg[1-\frac{1}{(1+r)^n}\bigg]$$
 		$$P=\frac{10,000}{.08}\bigg[1-\frac{1}{(1+.08)^{5.13}}\bigg]$$
 		$$P=40,774$$
-	c. 
+	c. $$10,000*.07$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjIxMzI1NCwzNjE2ODk2ODYsLTIyOT
+eyJoaXN0b3J5IjpbMTg2NDc5OTk2MCwzNjE2ODk2ODYsLTIyOT
 k1MjczNSwxMDI1NTcyODk4LDEyMDcyMzE3NDldfQ==
 -->
