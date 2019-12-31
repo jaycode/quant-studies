@@ -1,4 +1,5 @@
-1. Annuity formula: $$A=\$$
+1. Annuity formula: $$A=\frac{r(1+r)^nP}{(1+r)^n-1}$$
+2. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3ODc3NzI5MywxMjA3MjMxNzQ5XX0=
+eyJoaXN0b3J5IjpbNjgxNTMwNzY3LDEyMDcyMzE3NDldfQ==
 -->
