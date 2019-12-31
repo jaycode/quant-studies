@@ -15,8 +15,9 @@
 		$$P=0.87 \times P_\text{95} + 0.13 \times P_\text{96}$$
 		$$P=40,746$$
 	c. See 4.c. of [ch3-exercises spreadsheet](https://docs.google.com/spreadsheets/d/1PtCIQSuTvcW2Zm9iWtwRv54Q8oXtvajIXqiunmEC6kA/edit?folder=0B2ib3M3otvbDZDhjUU1LZU1WUUU#gid=0).
+4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDE5NjM5MjIsLTQ5OTU4MTg0OSwxMj
-kyODg1MTExLDE4NjQ3OTk5NjAsMzYxNjg5Njg2LC0yMjk5NTI3
-MzUsMTAyNTU3Mjg5OCwxMjA3MjMxNzQ5XX0=
+eyJoaXN0b3J5IjpbMTE0OTQwNjkwLC00OTk1ODE4NDksMTI5Mj
+g4NTExMSwxODY0Nzk5OTYwLDM2MTY4OTY4NiwtMjI5OTUyNzM1
+LDEwMjU1NzI4OTgsMTIwNzIzMTc0OV19
 -->
