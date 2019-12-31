@@ -12,11 +12,11 @@
 		$$P_\text{95}=39,927$$
 		$$P_\text{96}=\frac{10,000}{.08}\bigg[1-\frac{1}{(1+.08)^{6}}\bigg]$$
 		$$P_\text{96}=46,229$$
-		$$P=0.13 \times P_\text{95} + 0.87 \times P_\text{96}$$
-		$$P=$$
+		$$P=0.87 \times P_\text{95} + 0.13 \times P_\text{96}$$
+		$$P=40,746$$
 	c. $$10,000*.07$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYzMjMxNTgyLDEyOTI4ODUxMTEsMTg2ND
-c5OTk2MCwzNjE2ODk2ODYsLTIyOTk1MjczNSwxMDI1NTcyODk4
-LDEyMDcyMzE3NDldfQ==
+eyJoaXN0b3J5IjpbLTQ5OTU4MTg0OSwxMjkyODg1MTExLDE4Nj
+Q3OTk5NjAsMzYxNjg5Njg2LC0yMjk5NTI3MzUsMTAyNTU3Mjg5
+OCwxMjA3MjMxNzQ5XX0=
 -->
