@@ -8,11 +8,13 @@
 	$$x=90*.07+91*.08...101*.04$$
 	$$x=95.13\text{ years}$$
 	b. Find the average between $P_\text{95}$ and $P_\text{96}$: $$P=\frac{A}{r}\bigg[1-\frac{1}{(1+r)^n}\bigg]$$
-		$$P=\frac{10,000}{.08}\bigg[1-\frac{1}{(1+.08)^{5.13}}\bigg]$$
-		$$P=40,774$$
+		$P_\text{95}=\frac{10,000}{.08}\bigg[1-\frac{1}{(1+.08)^{5}}\bigg]$
+		$$P_\text{95}=39,927$$
+		$$P_\text{95}=\frac{10,000}{.08}\bigg[1-\frac{1}{(1+.08)^{5}}\bigg]$$
+		$$P_\text{95}=39,927$$
 	c. $$10,000*.07$$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Mjg4NTExMSwxODY0Nzk5OTYwLDM2MT
-Y4OTY4NiwtMjI5OTUyNzM1LDEwMjU1NzI4OTgsMTIwNzIzMTc0
-OV19
+eyJoaXN0b3J5IjpbLTE5MTEwNzM5OSwxMjkyODg1MTExLDE4Nj
+Q3OTk5NjAsMzYxNjg5Njg2LC0yMjk5NTI3MzUsMTAyNTU3Mjg5
+OCwxMjA3MjMxNzQ5XX0=
 -->
